@@ -1,14 +1,6 @@
-# A Blank PhoneGap App
+# For Mike Bennet
 
-## Usage
-
-### PhoneGap CLI
-
-    $ phonegap create my-app --template blank
-
-### Desktop
-
-In your browser, open the file:
-
-    /www/index.html
+## I have tested this by uploading to build.phonegap.com
+## and built the apk file without issues
+## Do give this a try!
 
